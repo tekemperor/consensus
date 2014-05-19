@@ -1,2 +1,3 @@
 Puropse: Find consensus within a group.
 Plan: Let Kevin write below for fun.
+I guess I can write something for fun too...
