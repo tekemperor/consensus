@@ -1,9 +1,20 @@
 *.db
-db.sqlite3
 *.pyc
 *~
 .*
-env
+.DS_STORE
+.idea
+bower_components/
+build/reports/
+coverage/
+db.sqlite3
+dist/
+env/
+jspm_packages/
+node_modules/
+node_modules/
+npm-debug.log
+typings/
 
 # Accept these files in the repository
 !.gitignore
